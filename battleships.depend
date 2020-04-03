@@ -20,3 +20,12 @@
 	<windows.h>
 	<cstdlib>
 
+1570794369 source:c:\users\lenovo\desktop\unik\1kursas\laivu\main.cpp
+	<iostream>
+	<iomanip>
+	<windows.h>
+	<conio.h>
+	<string>
+	<ctime>
+	<cstdlib>
+
